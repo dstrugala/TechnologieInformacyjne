@@ -1,0 +1,20 @@
+﻿1925 	1930 	Prof. dr Leonard Glabisz
+1930 	1939 	Prof. zw. dr Antoni Peretiatkowicz
+1939 	okres wojenny 	Prof. zw. dr Witold Skalski
+1945 	1948 	Prof. zw. dr Józef Górski
+1956 	1959	Prof. zw. dr Józef Górski
+1949 	1951 	Prof. zw. dr Florian Barciński
+1951 	1954 	Doc. dr Mieczysław Fleszar
+1954 	1956 	Prof. zw. dr Seweryn Kruszczyński
+1959 	1962 	Prof. zw. dr Zbigniew Zakrzewski
+1962 	1965 	Prof. zw. dr hab. Władysław Rusiński
+1965 	1969 	Prof. zw. dr Stanisław Smoliński
+1969 	1979 	Prof. zw. dr hab. Ryszard Domański
+1980 	-		Doc. Jerzy Krauze
+1980 	1987 	Prof. dr hab. Janusz Piasny
+1987 	1990 	Prof. zw. dr Janusz Wierzbicki
+1990 	1996 	Prof. dr hab. Bohdan Gruchman, prof. zw. UEP
+1996 	2002 	Prof. dr hab. Emil Panek, prof. zw. UEP
+2002 	2008 	Prof. dr hab. Witold Jurek, prof. zw. UEP
+2008 	2016 	Prof. dr hab. Marian Gorynia, prof. zw. UEP
+2016 	obecnie Prof. dr hab. Maciej Żukowski, prof. zw. UEP
